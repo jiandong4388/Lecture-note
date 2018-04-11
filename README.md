@@ -6,6 +6,8 @@
 2.`下载` 在本地，解压所有下载的压缩包;  
 3.`打开` sample.tex的格式
 
+注：如果报错把tex文件中的这一行代码`\usepackage[UTF8]{ctex}` 改成：`\usepackage[GBK]{ctex}` 
+
 
 具体的模板运行结果如下：
 ![](https://github.com/jiandong4388/imgfolder/blob/jiandong4388-patch-2/2018-04-10%2012-14-52%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
